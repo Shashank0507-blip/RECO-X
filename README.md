@@ -18,8 +18,5 @@ This project is a website recommendation system that uses K-Means clustering to 
   * Social Media News (NewsAPI)
 * User Interaction: Accepts user input and returns recommendations.
 
-### **Future Enhancements: **
-* Convert it into a web app using Flask/Streamlit.
-* Improve clustering with better feature engineering.
-* Deploy online for public access.
+
 
