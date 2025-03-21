@@ -5,4 +5,4 @@
   * !pip install numpy 
 * from sklearn.preprocessing import OneHotEncoder
 * from sklearn.cluster import KMeans
-  *!pip install scikit-learn
+  * !pip install scikit-learn
