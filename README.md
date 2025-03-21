@@ -1,9 +1,9 @@
 # RECO-X
-## **Project Overview: **
+## **Project Overview:**
 
 This project is a website recommendation system that uses K-Means clustering to group websites based on their categories. Additionally, it fetches trending content like movies, news, games, finance, and tech updates using various APIs. The project allows users to input a category and receive recommendations for websites along with relevant trending content.
 
-### **Features: **
+### ** Features: **
 * Website Clustering & Recommendation: Uses K-Means clustering to group websites and recommend similar platforms.
 * Trending Content Fetching:
   * Movies (TheMovieDB API)
