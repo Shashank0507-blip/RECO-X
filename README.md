@@ -17,6 +17,6 @@ This project is a website recommendation system that uses K-Means clustering to 
   * Education News (NewsAPI)
   * Social Media News (NewsAPI)
 * User Interaction: Accepts user input and returns recommendations.
-## Overall this is a recommendation system that dynamically recommends real time trending topics based on category of intrest.
+## Overall this is a recommendation system that dynamically recommends real time trending topics based on category of interest.
 
 
